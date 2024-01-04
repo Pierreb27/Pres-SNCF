@@ -1,0 +1,2 @@
+- aws s3 ls s3://my-bucket
+- aws s3 cp file s3://my-bucket
