@@ -1,2 +1,8 @@
+#Webserver
+
+python3 -m http.server 8080
+
+#Copy EC2 to s3
+
 - aws s3 ls s3://my-bucket
 - aws s3 cp file s3://my-bucket
